@@ -3,7 +3,7 @@
   <string name="professional.workspace.list_appointments_screen.declined_by_customer">Declined by customer</string>
   <string name="professional.workspace.list_appointments_screen.empty_description">No entries for this day</string>
   <string name="professional.workspace.list_appointments_screen.expired">Expired</string>
-  <string name="professional.workspace.list_appointments_screen.need_your_action">Need your action</string>
+  <string name="professional.workspace.list_appointments_screen.need_your_action">Ваше действие нужно</string>
   <string name="professional.workspace.schedule_stats_widget.action">Register a client</string>
   <string name="professional.workspace.schedule_stats_widget.period">Today:</string>
   <string name="professional.workspace.schedule_stats_widget.status_message_alert">Before creating an appointment, you must activate the salon</string>
