@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="reusable.time.week.friday">Friday</string>
+  <string name="reusable.time.week.monday">Monday</string>
+  <string name="reusable.time.week.saturday">Saturday</string>
+  <string name="reusable.time.week.sunday">Sunday</string>
+  <string name="reusable.time.week.thursday">Thursday</string>
+  <string name="reusable.time.week.tuesday">Tuesday</string>
+  <string name="reusable.time.week.wednesday">Wednesday</string>
+</resources>
