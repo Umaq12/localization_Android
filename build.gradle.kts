@@ -22,7 +22,7 @@ publishing {
         register<MavenPublication>("gpr") {
             from(components["kotlin"])
             groupId = "com.github.umaq12"
-            version = "1.0.1"
+            version = "1.0.3"
             artifactId = "localization_android"
         }
     }
