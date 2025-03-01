@@ -2,6 +2,7 @@ plugins {
     kotlin("jvm") version "1.9.23"
     `maven-publish`
 }
+
 repositories {
     mavenCentral()
 }
@@ -21,7 +22,7 @@ publishing {
         register<MavenPublication>("gpr") {
             from(components["kotlin"])
             groupId = "com.github.umaq12"
-            version = "1.0.3"
+            version = "1.0.4"
             artifactId = "localization_android"
         }
     }
