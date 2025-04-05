@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="screen.appointment.customer_approved">Подтверждено</string>
-  <string name="screen.appointment.customer_declined">Отказ</string>
-  <string name="screen.appointment.customer_time_out">Время истекло</string>
-  <string name="screen.appointment.customer_waiting">В ожидании</string>
-  <string name="reusable.tomorrow">Завтра</string>
-  <string name="creatable.alert.client_confirmation">Переход по ссылке для синхронизации твоей истории заказов. Салон, связанный с этой ссылкой, будет добавлен в твой список избранных. Подтверждаешь это действие?</string>
   <string name="creatable.alert.confirmation">Подтверждение</string>
   <string name="creatable.alert.congratulations">Поздравляем</string>
   <string name="creatable.alert.error">Ошибка</string>
