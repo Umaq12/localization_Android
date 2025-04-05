@@ -1,10 +1,1 @@
-bundles:
-  - 9
-files:
-  - source: */Ios/
-    ignore:
-      - /**/*.swift
-    translation: Ios/%file_name%.xcstrings
-    multilingual: 1
-    type: xcstrings
-    update_option: update_without_changes
+files: []
