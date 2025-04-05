@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="screen.appointment.customer_approved">
+    <item>Approved</item>
+    <item>Подтверждено</item>
+  </string-array>
+  <string-array name="screen.appointment.customer_declined">
+    <item>Declined</item>
+    <item>Отказ</item>
+  </string-array>
+  <string-array name="screen.appointment.customer_time_out">
+    <item>Time Expired</item>
+    <item>Время истекло</item>
+  </string-array>
+  <string-array name="screen.appointment.customer_waiting">
+    <item>Waiting</item>
+    <item>В ожидании</item>
+  </string-array>
+  <string-array name="reusable.tomorrow">
+    <item>Tomorrow</item>
+    <item>Завтра</item>
+  </string-array>
+  <string-array name="creatable.alert.client_confirmation">
+    <item>Follow the link to sync your order history. The salon associated with this link will be added to your favorites list. Do you confirm this action?</item>
+    <item>Переход по ссылке для синхронизации твоей истории заказов. Салон, связанный с этой ссылкой, будет добавлен в твой список избранных. Подтверждаешь это действие?</item>
+  </string-array>
+  <string-array name="creatable.alert.confirmation">
+    <item>Confirmation</item>
+    <item>Подтверждение</item>
+  </string-array>
+  <string-array name="creatable.alert.congratulations">
+    <item>Congratulations</item>
+    <item>Поздравляем</item>
+  </string-array>
+  <string-array name="creatable.alert.error">
+    <item>Error</item>
+    <item>Ошибка</item>
+  </string-array>
+  <string-array name="creatable.alert.incomplete_address">
+    <item>Incomplete Address</item>
+    <item>Неполный адрес</item>
+  </string-array>
+  <string-array name="creatable.alert.incomplete_address_message">
+    <item>Enter your full address to proceed</item>
+    <item>Напиши свой полный адрес, чтобы двигаться дальше</item>
+  </string-array>
+  <string-array name="creatable.alert.master_confirmation">
+    <item>You’ve followed a link that assigns you as an employee to the salon associated with it. After confirmation, you’ll be able to provide services at this salon. Do you confirm this action?</item>
+    <item>Ты перешел по ссылке, которая привязывает тебя как работника к салону, связанному с этой ссылкой. После подтверждения ты сможешь предоставлять услуги в этом салоне. Подтверждаешь это действие?</item>
+  </string-array>
+  <string-array name="creatable.alert.ok">
+    <item>OK</item>
+    <item>Ок</item>
+  </string-array>
+  <string-array name="creatable.appt.afternoon">
+    <item>Afternoon</item>
+    <item>День</item>
+  </string-array>
+  <string-array name="creatable.appt.check_master">
+    <item>Searching for master information, please wait a moment!</item>
+    <item>Ищем информацию о мастере, подожди чуток!</item>
+  </string-array>
+  <string-array name="creatable.appt.check_procedure">
+    <item>Searching for procedure information, give us a moment</item>
+    <item>Ищем информацию о процедуре, нам нужно немного времени</item>
+  </string-array>
+  <string-array name="creatable.appt.choose_customer">
+    <item>Choose Client</item>
+    <item>Выбрать клиента</item>
+  </string-array>
+  <string-array name="creatable.appt.choose_master">
+    <item>Choose Master</item>
+    <item>Выбери мастера</item>
+  </string-array>
+  <string-array name="creatable.appt.click_complete">
+    <item>To save, click Complete</item>
+    <item>Для сохранения, нажми завершить</item>
+  </string-array>
+  <string-array name="creatable.appt.complete">
+    <item>Complete Appointment</item>
+    <item>Завершить запись</item>
+  </string-array>
+  <string-array name="creatable.appt.congratulations">
+    <item>Hooray! Your appointment has been created</item>
+    <item>Ура! Твоя запись создана</item>
+  </string-array>
+  <string-array name="creatable.appt.create_appointment">
+    <item>Create Appointment</item>
+    <item>Создать запись</item>
+  </string-array>
+  <string-array name="creatable.appt.day">
+    <item>Day</item>
+    <item>День</item>
+  </string-array>
+  <string-array name="creatable.appt.day_unavailable">
+    <item>Unfortunately, booking isn’t available on this day</item>
+    <item>К сожалению в этот день нельзя записаться</item>
+  </string-array>
+  <string-array name="creatable.appt.evening">
+    <item>Evening</item>
+    <item>Вечер</item>
+  </string-array>
+  <string-array name="creatable.appt.master_found">
+    <item>Your master is %s</item>
+    <item>Твой мастер %s</item>
+  </string-array>
+  <string-array name="creatable.appt.master_found_simple">
+    <item>Your master has been found</item>
+    <item>Твой мастер найден</item>
+  </string-array>
+  <string-array name="creatable.appt.master_not_found">
+    <item>Unfortunately, we couldn’t find information about the master</item>
+    <item>К сожалению, нам не удалось найти информацию о мастере</item>
+  </string-array>
+  <string-array name="creatable.appt.morning">
+    <item>Morning</item>
+    <item>Утро</item>
+  </string-array>
+  <string-array name="creatable.appt.night">
+    <item>Night</item>
+    <item>Ночь</item>
+  </string-array>
+  <string-array name="creatable.appt.procedure_found_simple">
+    <item>Your procedure has been found</item>
+    <item>Твоя процедура найдена</item>
+  </string-array>
+  <string-array name="creatable.appt.procedure_not_found">
+    <item>Procedure not found</item>
+    <item>Процедура не найдена</item>
+  </string-array>
+  <string-array name="creatable.appt.select_procedure">
+    <item>Choose your procedure</item>
+    <item>Выбери свою процедуру</item>
+  </string-array>
+  <string-array name="creatable.appt.select_time">
+    <item>Select a time for your visit</item>
+    <item>Выбери время для визита</item>
+  </string-array>
+  <string-array name="creatable.appt.sign_in_description">
+    <item>**Log in** to complete the appointment</item>
+    <item>**Войди**, чтобы завершить запись</item>
+  </string-array>
+  <string-array name="creatable.appt.time">
+    <item>Time</item>
+    <item>Время</item>
+  </string-array>
+  <string-array name="creatable.appt.time_slots_absent">
+    <item>No available slots, sorry</item>
+    <item>Свободных окошек нет, увы</item>
+  </string-array>
+  <string-array name="creatable.appt.title">
+    <item>Appointment</item>
+    <item>Запись</item>
+  </string-array>
+  <string-array name="creatable.auth.add_salon">
+    <item>Add Salon</item>
+    <item>Добавить салон</item>
+  </string-array>
+  <string-array name="creatable.auth.enter_name">
+    <item>Who are you?</item>
+    <item>Кто ты?</item>
+  </string-array>
+  <string-array name="creatable.auth.later_logo">
+    <item>If you don’t have a suitable photo now, you can always add it later in your profile settings.</item>
+    <item>Если у тебе нет подходящего фото сейчас. Ты всегда сможете добавить его позже в настройках профиля.</item>
+  </string-array>
+  <string-array name="creatable.auth.placeholder">
+    <item>Name</item>
+    <item>Имя</item>
+  </string-array>
+  <string-array name="creatable.auth.privacy">
+    <item>By clicking “Continue,” you agree to the [Privacy Policy](%s) and [User Agreement](%s)</item>
+    <item>Нажимая “Продолжить”, ты соглашаешься с [Политикой конфиденциальности](%s) и [Пользовательским соглашением](%s)</item>
+  </string-array>
+  <string-array name="creatable.auth.select_photo">
+    <item>Select Photo</item>
+    <item>Выбрать фото</item>
+  </string-array>
+  <string-array name="creatable.auth.sign_up_with_google">
+    <item>Sign in with Google</item>
+    <item>Войди с помощью Google</item>
+  </string-array>
+  <string-array name="creatable.auth.title">
+    <item>Authorization</item>
+    <item>Авторизация</item>
+  </string-array>
+  <string-array name="creatable.auth.upload_logo">
+    <item>Let’s upload your avatar</item>
+    <item>Давай загрузим твою аватарку</item>
+  </string-array>
+  <string-array name="creatable.auth.welcome_message">
+    <item>Log in or register to use the service on any device.</item>
+    <item>Войди или зарегистрируйся чтобы использовать сервис на любом устройстве.</item>
+  </string-array>
+  <string-array name="creatable.auth.who_are_you">
+    <item>Would you like to register as a master or a client?</item>
+    <item>Желаешь зарегистрироваться как мастер или как клиент?</item>
+  </string-array>
+  <string-array name="creatable.category_enum.brows">
+    <item>Brows</item>
+    <item>Брови</item>
+  </string-array>
+  <string-array name="creatable.category_enum.cosmetology">
+    <item>Cosmetology</item>
+    <item>Косметология</item>
+  </string-array>
+  <string-array name="creatable.category_enum.depilation">
+    <item>Depilation</item>
+    <item>Депиляция</item>
+  </string-array>
+  <string-array name="creatable.category_enum.epilation">
+    <item>Epilation</item>
+    <item>Эпиляция</item>
+  </string-array>
+  <string-array name="creatable.category_enum.hairdressing">
+    <item>Hair</item>
+    <item>Волосы</item>
+  </string-array>
+  <string-array name="creatable.category_enum.lashes">
+    <item>Lashes</item>
+    <item>Ресницы</item>
+  </string-array>
+  <string-array name="creatable.category_enum.makeup">
+    <item>Makeup</item>
+    <item>Макияж</item>
+  </string-array>
+  <string-array name="creatable.category_enum.massage">
+    <item>Massage</item>
+    <item>Массаж</item>
+  </string-array>
+  <string-array name="creatable.category_enum.nails">
+    <item>Nails</item>
+    <item>Ногти</item>
+  </string-array>
+  <string-array name="creatable.category_enum.other">
+    <item>Other</item>
+    <item>Другое</item>
+  </string-array>
+  <string-array name="creatable.category_enum.piercing">
+    <item>Piercing</item>
+    <item>Пирсинг</item>
+  </string-array>
+  <string-array name="creatable.category_enum.spa">
+    <item>Spa</item>
+    <item>Спа</item>
+  </string-array>
+  <string-array name="creatable.category_enum.tattoo">
+    <item>Tattoo</item>
+    <item>Тату</item>
+  </string-array>
+  <string-array name="creatable.client.add_contact">
+    <item>Add Contact</item>
+    <item>Добавить контакт</item>
+  </string-array>
+  <string-array name="creatable.client.enter_client_name">
+    <item>Enter client name</item>
+    <item>Введи имя клиента</item>
+  </string-array>
+  <string-array name="creatable.client.placeholder">
+    <item>Name</item>
+    <item>Имя</item>
+  </string-array>
+  <string-array name="creatable.client.title">
+    <item>Create Client</item>
+    <item>Создание клиента</item>
+  </string-array>
+  <string-array name="creatable.contact.contact_type">
+    <item>Choose your preferred contact method</item>
+    <item>Выбери предпочтительный способ связи</item>
+  </string-array>
+  <string-array name="creatable.contact.email">
+    <item>Please enter your email address</item>
+    <item>Пожалуйста, введи адрес электронной почты</item>
+  </string-array>
+  <string-array name="creatable.contact.email_later">
+    <item>You can add an email address later in settings</item>
+    <item>Ты сможешь добавить адрес электронной почты позже в настройках</item>
+  </string-array>
+  <string-array name="creatable.contact.instagram">
+    <item>Please share your Instagram account</item>
+    <item>Пожалуйста, поделись аккаунтом Instagram</item>
+  </string-array>
+  <string-array name="creatable.contact.instagram_later">
+    <item>You can add an Instagram account later in settings</item>
+    <item>Ты сможешь добавить аккаунт Instagram позже в настройках</item>
+  </string-array>
+  <string-array name="creatable.contact.phone_number">
+    <item>Please provide your phone number</item>
+    <item>Пожалуйста, укажи номер телефона</item>
+  </string-array>
+  <string-array name="creatable.contact.phone_number_later">
+    <item>You can add a phone number later in settings</item>
+    <item>Ты сможешь добавить номер телефона позже в настройках</item>
+  </string-array>
+  <string-array name="creatable.contact.telegram_number">
+    <item>Please provide your Telegram account</item>
+    <item>Пожалуйста, укажи аккаунт Telegram</item>
+  </string-array>
+  <string-array name="creatable.contact.telegram_number_later">
+    <item>You can add a Telegram account later in settings</item>
+    <item>Ты сможешь добавить аккаунт Telegram позже в настройках</item>
+  </string-array>
+  <string-array name="creatable.contact.title">
+    <item>Contact</item>
+    <item>Контакт</item>
+  </string-array>
+  <string-array name="creatable.contact.whatsapp_number">
+    <item>Please provide your WhatsApp number</item>
+    <item>Пожалуйста, укажи номер WhatsApp</item>
+  </string-array>
+  <string-array name="creatable.contact.whatsapp_number_later">
+    <item>You can add a WhatsApp number later in settings</item>
+    <item>Ты сможете добавить номер WhatsApp позже в настройках</item>
+  </string-array>
+  <string-array name="creatable.creation_contact.select_one_required">
+    <item>Select a contact</item>
+    <item>Выберите контакт</item>
+  </string-array>
+  <string-array name="creatable.currency_text_field.placeholder">
+    <item>Enter amount</item>
+    <item>Введите сумму</item>
+  </string-array>
+  <string-array name="creatable.customer.registration_completed">
+    <item>If you have an invitation link, you can follow it after completing registration</item>
+    <item>Если у тебя есть ссылка-приглашение, ты сможешь перейти по ней после завершения регистрации</item>
+  </string-array>
+  <string-array name="creatable.edit_menu.copy_button">
+    <item>Copy</item>
+    <item>Скопировать</item>
+  </string-array>
+  <string-array name="creatable.input_view_for_step.customer">
+    <item>Client</item>
+    <item>Клиент</item>
+  </string-array>
+  <string-array name="creatable.input_view_for_step.email">
+    <item>Email</item>
+    <item>Email</item>
+  </string-array>
+  <string-array name="creatable.input_view_for_step.instagram">
+    <item>Instagram</item>
+    <item>Instagram</item>
+  </string-array>
+  <string-array name="creatable.input_view_for_step.master">
+    <item>Master</item>
+    <item>Мастер</item>
+  </string-array>
+  <string-array name="creatable.input_view_for_step.message">
+    <item>Message</item>
+    <item>Сообщение</item>
+  </string-array>
+  <string-array name="creatable.input_view_for_step.phone">
+    <item>Phone</item>
+    <item>Телефон</item>
+  </string-array>
+  <string-array name="creatable.input_view_for_step.select_date_and_time">
+    <item>Select date and time</item>
+    <item>Выбрать дату и время</item>
+  </string-array>
+  <string-array name="creatable.input_view_for_step.skip">
+    <item>Skip</item>
+    <item>Пропустить</item>
+  </string-array>
+  <string-array name="creatable.input_view_for_step.telegram">
+    <item>Telegram</item>
+    <item>Телеграм</item>
+  </string-array>
+  <string-array name="creatable.input_view_for_step.whatsapp">
+    <item>WhatsApp</item>
+    <item>Whatsapp</item>
+  </string-array>
+  <string-array name="creatable.master.add_contact">
+    <item>Add Contact</item>
+    <item>Добавить контакт</item>
+  </string-array>
+  <string-array name="creatable.master.choose_position">
+    <item>Choose Position</item>
+    <item>Выбери должность</item>
+  </string-array>
+  <string-array name="creatable.master.create_button">
+    <item>Create</item>
+    <item>Создать</item>
+  </string-array>
+  <string-array name="creatable.master.description_placeholder">
+    <item>Description</item>
+    <item>Описание</item>
+  </string-array>
+  <string-array name="creatable.master.enter_master_description">
+    <item>Provide a description of the master</item>
+    <item>Дай свою характеристику мастеру</item>
+  </string-array>
+  <string-array name="creatable.master.invitation_link">
+    <item>Send Invitation Link</item>
+    <item>Отправить ссылку-приглашение</item>
+  </string-array>
+  <string-array name="creatable.master.more_contact">
+    <item>Want to add another contact method?</item>
+    <item>Хочешь добавить еще один способ связи?</item>
+  </string-array>
+  <string-array name="creatable.master.setup_schedule">
+    <item>You can set up the invited master’s work schedule</item>
+    <item>Ты можешь настроить график работы приглашенного мастера</item>
+  </string-array>
+  <string-array name="creatable.master.successfully_created">
+    <item>Great! You’ve successfully created an invitation for a new master.</item>
+    <item>Отлично! Ты успешно смог сделать приглашение для нового мастера.</item>
+  </string-array>
+  <string-array name="creatable.master.title">
+    <item>Master</item>
+    <item>Мастер</item>
+  </string-array>
+  <string-array name="creatable.phone_field.placeholder">
+    <item>Enter number</item>
+    <item>Введи номер</item>
+  </string-array>
+  <string-array name="creatable.position.add_permissions">
+    <item>Set permissions for this position</item>
+    <item>Установить разрешения для этой позиции</item>
+  </string-array>
+  <string-array name="creatable.position.click_create">
+    <item>To save, click Create</item>
+    <item>Что бы сохранить, нажми создать</item>
+  </string-array>
+  <string-array name="creatable.position.create_button">
+    <item>Create</item>
+    <item>Создать</item>
+  </string-array>
+  <string-array name="creatable.position.enter_position_name">
+    <item>Enter position name</item>
+    <item>Введи название должности</item>
+  </string-array>
+  <string-array name="creatable.position.placeholder">
+    <item>Enter position</item>
+    <item>Введи должность</item>
+  </string-array>
+  <string-array name="creatable.position.setting_salary">
+    <item>Set the salary for this position</item>
+    <item>Установи размер заработной платы для этой должности</item>
+  </string-array>
+  <string-array name="creatable.position.title">
+    <item>Position</item>
+    <item>Должность</item>
+  </string-array>
+  <string-array name="creatable.positions.create_position">
+    <item>Create New Position</item>
+    <item>Создать новую должность</item>
+  </string-array>
+  <string-array name="creatable.positions.not_found">
+    <item>Not Found</item>
+    <item>Не найдено</item>
+  </string-array>
+  <string-array name="creatable.profile_update.enter_name">
+    <item>Enter new nickname</item>
+    <item>Введи новый никнейм</item>
+  </string-array>
+  <string-array name="creatable.profile_update.placeholder">
+    <item>Name</item>
+    <item>Имя</item>
+  </string-array>
+  <string-array name="creatable.profile_update.save">
+    <item>Save</item>
+    <item>Сохранить</item>
+  </string-array>
+  <string-array name="creatable.profile_update.title">
+    <item>Profile Update</item>
+    <item>Обновление профиля</item>
+  </string-array>
+  <string-array name="creatable.profile_update.upload_avatar">
+    <item>Upload new avatar</item>
+    <item>Загрузи новый аватар</item>
+  </string-array>
+  <string-array name="creatable.professional.create_another_salon">
+    <item>You can also add another salon</item>
+    <item>Ты также можешь добавить еще один салон</item>
+  </string-array>
+  <string-array name="creatable.professional.create_first_salon">
+    <item>You can create your first salon</item>
+    <item>Ты можешь создать свой первый салон</item>
+  </string-array>
+  <string-array name="creatable.professional.create_salon_button">
+    <item>Create Salon</item>
+    <item>Создать салон</item>
+  </string-array>
+  <string-array name="creatable.professional.invitation_link">
+    <item>If you have an invitation link, please enter it below</item>
+    <item>Если у тебя есть ссылка-приглашение, пожалуйста, введи её ниже</item>
+  </string-array>
+  <string-array name="creatable.professional.link_is_not_valid">
+    <item>Unfortunately, the entered link is invalid. Please check and enter it again</item>
+    <item>К сожалению, введённая ссылка недействительна. Пожалуйста, проверь и введи её снова</item>
+  </string-array>
+  <string-array name="creatable.professional.title">
+    <item>Master Registration</item>
+    <item>Регистрация мастера</item>
+  </string-array>
+  <string-array name="creatable.routes_picker.select_app">
+    <item>Choose Application</item>
+    <item>Выбери приложение</item>
+  </string-array>
+  <string-array name="creatable.salon.add_address">
+    <item>Great! Now add your salon’s address so clients can easily find you</item>
+    <item>Отлично! Теперь добавь адрес твоего салона, чтобы клиенты могли легко найти вас</item>
+  </string-array>
+  <string-array name="creatable.salon.allow_button">
+    <item>Allow</item>
+    <item>Разрешить</item>
+  </string-array>
+  <string-array name="creatable.salon.chain_type">
+    <item>Beauty Salon Chain</item>
+    <item>Сеть салонов красоты</item>
+  </string-array>
+  <string-array name="creatable.salon.click_create">
+    <item>To save, click Create</item>
+    <item>Что бы сохранить, нажми Создать</item>
+  </string-array>
+  <string-array name="creatable.salon.congratulations">
+    <item>Awesome! Your salon has been successfully created</item>
+    <item>Круто! Твой салон успешно создан</item>
+  </string-array>
+  <string-array name="creatable.salon.create_button">
+    <item>Create</item>
+    <item>Создать</item>
+  </string-array>
+  <string-array name="creatable.salon.create_schedule">
+    <item>Step by step! Set up your salon’s working hours so clients know when they can visit</item>
+    <item>Шаг за шагом! Настрой расписание работы твоего салона, чтобы клиенты знали, когда они могут вас посетить</item>
+  </string-array>
+  <string-array name="creatable.salon.description_placeholder">
+    <item>Description</item>
+    <item>Описание</item>
+  </string-array>
+  <string-array name="creatable.salon.enter_name">
+    <item>Please enter your salon’s name</item>
+    <item>Пожалуйста, введи название твоего салона</item>
+  </string-array>
+  <string-array name="creatable.salon.enter_salon_description">
+    <item>Please describe the salon</item>
+    <item>Опиши, пожалуйста, салон</item>
+  </string-array>
+  <string-array name="creatable.salon.individual_type">
+    <item>Beauty Salon</item>
+    <item>Салон красоты</item>
+  </string-array>
+  <string-array name="creatable.salon.later_logo">
+    <item>You can add a logo later in the salon settings</item>
+    <item>Ты сможешь позже добавить логотип в настройках салона</item>
+  </string-array>
+  <string-array name="creatable.salon.master_type">
+    <item>Individual Master</item>
+    <item>Индивидуальный мастер</item>
+  </string-array>
+  <string-array name="creatable.salon.notice_request">
+    <item>To receive messages from clients, you need to allow notifications</item>
+    <item>Для того что бы получать сообщения от клиентов, необходимо разрешить уведомления</item>
+  </string-array>
+  <string-array name="creatable.salon.placeholder">
+    <item>Name</item>
+    <item>Название</item>
+  </string-array>
+  <string-array name="creatable.salon.salon_type">
+    <item>Choose the type of salon to create</item>
+    <item>Выбери тип создаваемого салона</item>
+  </string-array>
+  <string-array name="creatable.salon.title">
+    <item>Create Salon</item>
+    <item>Создание салона</item>
+  </string-array>
+  <string-array name="creatable.salon.turn_on_notifications">
+    <item>You’ve disabled push notifications in [settings](%s), please enable them there</item>
+    <item>Ты отключил push уведомления в [настройках](%s), пожалуйста, включи их там же</item>
+  </string-array>
+  <string-array name="creatable.salon.upload_logo">
+    <item>Perfect! Now upload your salon’s logo to make it recognizable</item>
+    <item>Прекрасно! А теперь загрузи логотип твоего салона, чтобы мы могли сделать его узнаваемым</item>
+  </string-array>
+  <string-array name="creatable.salon_update.enter_name">
+    <item>Enter a new name for your salon</item>
+    <item>Введи новое название для твоего салона</item>
+  </string-array>
+  <string-array name="creatable.salon_update.placeholder">
+    <item>Name</item>
+    <item>Название</item>
+  </string-array>
+  <string-array name="creatable.salon_update.salon_type">
+    <item>Choose salon type</item>
+    <item>Выбери тип салона</item>
+  </string-array>
+  <string-array name="creatable.salon_update.save">
+    <item>Save</item>
+    <item>Сохранить</item>
+  </string-array>
+  <string-array name="creatable.salon_update.title">
+    <item>Update Salon</item>
+    <item>Обновление салона</item>
+  </string-array>
+  <string-array name="creatable.salon_update.upload_logo">
+    <item>Upload new logo</item>
+    <item>Загрузи новый логотип</item>
+  </string-array>
+  <string-array name="creatable.service.description_placeholder">
+    <item>Description</item>
+    <item>Описание</item>
+  </string-array>
+  <string-array name="creatable.service.enter_service_description">
+    <item>Please provide a brief service description</item>
+    <item>Пожалуйста, дай краткое описание услуги</item>
+  </string-array>
+  <string-array name="creatable.service.enter_service_name">
+    <item>Enter service name</item>
+    <item>Введи название услуги</item>
+  </string-array>
+  <string-array name="creatable.service.placeholder">
+    <item>Description</item>
+    <item>Описание</item>
+  </string-array>
+  <string-array name="creatable.service.title">
+    <item>Create Service</item>
+    <item>Создание услуги</item>
+  </string-array>
+  <string-array name="creatable.text_input_field.email">
+    <item>input@mail.com</item>
+    <item>input@mail.com</item>
+  </string-array>
+  <string-array name="creatable.text_input_field.identifier_placeholder">
+    <item>your_identifier</item>
+    <item>твой_идентификатор</item>
+  </string-array>
+  <string-array name="creatable.text_input_field.link">
+    <item>https://maestri.app/</item>
+    <item>https://maestri.app/</item>
+  </string-array>
+  <string-array name="creatable.text_message.skip_text">
+    <item>Skip</item>
+    <item>Пропустить</item>
+  </string-array>
+  <string-array name="error.default.register_as_client">
+    <item>To process the link, you need to register as a client</item>
+    <item>Для обработки ссылки необходимо зарегистрироваться как клиент</item>
+  </string-array>
+  <string-array name="error.default.register_as_master">
+    <item>To process the link, you need to register as a master</item>
+    <item>Для обработки ссылки необходимо зарегистрироваться как мастер</item>
+  </string-array>
+  <string-array name="error.default.unknown_error">
+    <item>Unknown error</item>
+    <item>Неизвестная ошибка</item>
+  </string-array>
+  <string-array name="error.http.bad_gateway">
+    <item>502 Bad Gateway: The server acting as a gateway or proxy received an invalid response from an upstream server.</item>
+    <item>502 Плохой шлюз: Сервер, действующий как шлюз или прокси, получил недопустимый ответ от вышестоящего сервера.</item>
+  </string-array>
+  <string-array name="error.http.bad_request">
+    <item>400 Bad Request: The server cannot understand the request due to invalid syntax.</item>
+    <item>400 Неправильный запрос: Сервер не понимает запрос из-за неверного синтаксиса.</item>
+  </string-array>
+  <string-array name="error.http.conflict">
+    <item>409 Conflict: The request could not be processed due to a conflict, such as an edit conflict between multiple simultaneous updates.</item>
+    <item>409 Конфликт: Запрос не может быть обработан из-за конфликта в запросе, например, конфликта редактирования между несколькими одновременными обновлениями.</item>
+  </string-array>
+  <string-array name="error.http.error">
+    <item>Error</item>
+    <item>Ошибка</item>
+  </string-array>
+  <string-array name="error.http.forbidden">
+    <item>403 Forbidden: The server understands the request but refuses to fulfill it. Usually due to lack of permissions.</item>
+    <item>403 Запрещено: У сервера есть понимание запроса, но он отказывается его выполнить. Обычно это связано с отсутствием прав доступа.</item>
+  </string-array>
+  <string-array name="error.http.gateway_timeout">
+    <item>504 Gateway Timeout: The server acting as a gateway or proxy did not receive a timely response from an upstream server.</item>
+    <item>504 Шлюз не отвечает: Сервер, действующий как шлюз или прокси, не получил своевременный ответ от вышестоящего сервера.</item>
+  </string-array>
+  <string-array name="error.http.internal_server_error">
+    <item>500 Internal Server Error: A generic server error. Usually means something went wrong on the server side.</item>
+    <item>500 Внутренняя ошибка сервера: Общая ошибка сервера. Обычно означает, что что-то пошло не так на стороне сервера.</item>
+  </string-array>
+  <string-array name="error.http.method_not_allowed">
+    <item>405 Method Not Allowed: The method specified in the request is not allowed for this resource.</item>
+    <item>405 Метод не разрешен: Метод, указанный в запросе, запрещен для данного ресурса.</item>
+  </string-array>
+  <string-array name="error.http.not_found">
+    <item>404 Not Found: The server cannot find the requested resource. This is the most common error indicating a nonexistent page.</item>
+    <item>404 Не найдено: Сервер не может найти запрашиваемый ресурс. Это самая распространенная ошибка, указывающая на несуществующую страницу.</item>
+  </string-array>
+  <string-array name="error.http.service_unavailable">
+    <item>503 Service Unavailable: The server cannot handle the request due to temporary overload or maintenance.</item>
+    <item>503 Сервис недоступен: Сервер не может обработать запрос из-за временной перегрузки или обслуживания.</item>
+  </string-array>
+  <string-array name="error.http.unauthorized">
+    <item>401 Unauthorized: Authentication is required. The user must log in to access.</item>
+    <item>401 Неавторизован: Требуется аутентификация. Пользователь должен залогиниться для доступа.</item>
+  </string-array>
+  <string-array name="reusable.add">
+    <item>Add</item>
+    <item>Добавить</item>
+  </string-array>
+  <string-array name="reusable.add_break">
+    <item>Add Break</item>
+    <item>Добавить перерыв</item>
+  </string-array>
+  <string-array name="reusable.all">
+    <item>All</item>
+    <item>Все</item>
+  </string-array>
+  <string-array name="reusable.apply">
+    <item>Apply</item>
+    <item>Применить</item>
+  </string-array>
+  <string-array name="reusable.break_time">
+    <item>Break</item>
+    <item>Перерыв</item>
+  </string-array>
+  <string-array name="reusable.cancel">
+    <item>Cancel</item>
+    <item>Отмена</item>
+  </string-array>
+  <string-array name="reusable.close_time">
+    <item>Closing Time</item>
+    <item>Время закрытия</item>
+  </string-array>
+  <string-array name="reusable.cur_lan">
+    <item>en</item>
+    <item>ru</item>
+  </string-array>
+  <string-array name="reusable.day_off">
+    <item>Day Off</item>
+    <item>Выходной</item>
+  </string-array>
+  <string-array name="reusable.delete">
+    <item>Delete</item>
+    <item>Удалить</item>
+  </string-array>
+  <string-array name="reusable.delete_break">
+    <item>Delete</item>
+    <item>Удалить</item>
+  </string-array>
+  <string-array name="reusable.edit">
+    <item>Edit</item>
+    <item>Редактировать</item>
+  </string-array>
+  <string-array name="reusable.edit_break">
+    <item>Edit</item>
+    <item>Редактировать</item>
+  </string-array>
+  <string-array name="reusable.enter_address">
+    <item>Enter address</item>
+    <item>Введи адрес</item>
+  </string-array>
+  <string-array name="reusable.enter_the_value">
+    <item>Enter value</item>
+    <item>Введите значение</item>
+  </string-array>
+  <string-array name="reusable.friday">
+    <item>Friday</item>
+    <item>Пятница</item>
+  </string-array>
+  <string-array name="reusable.friday_short">
+    <item>Fri</item>
+    <item>Пт</item>
+  </string-array>
+  <string-array name="reusable.hours">
+    <item>hr</item>
+    <item>ч</item>
+  </string-array>
+  <string-array name="reusable.monday">
+    <item>Monday</item>
+    <item>Понедельник</item>
+  </string-array>
+  <string-array name="reusable.monday_short">
+    <item>Mon</item>
+    <item>Пн</item>
+  </string-array>
+  <string-array name="reusable.open_time">
+    <item>Opening Time</item>
+    <item>Время открытия</item>
+  </string-array>
+  <string-array name="reusable.saturday">
+    <item>Saturday</item>
+    <item>Суббота</item>
+  </string-array>
+  <string-array name="reusable.saturday_short">
+    <item>Sat</item>
+    <item>Сб</item>
+  </string-array>
+  <string-array name="reusable.select">
+    <item>Select</item>
+    <item>Выбрать</item>
+  </string-array>
+  <string-array name="reusable.sunday">
+    <item>Sunday</item>
+    <item>Воскресенье</item>
+  </string-array>
+  <string-array name="reusable.sunday_short">
+    <item>Sun</item>
+    <item>Вс</item>
+  </string-array>
+  <string-array name="reusable.thursday">
+    <item>Thursday</item>
+    <item>Четверг</item>
+  </string-array>
+  <string-array name="reusable.thursday_short">
+    <item>Thu</item>
+    <item>Чт</item>
+  </string-array>
+  <string-array name="reusable.today">
+    <item>Today</item>
+    <item>Сегодня</item>
+  </string-array>
+  <string-array name="reusable.tuesday">
+    <item>Tuesday</item>
+    <item>Вторник</item>
+  </string-array>
+  <string-array name="reusable.tuesday_short">
+    <item>Tue</item>
+    <item>Вт</item>
+  </string-array>
+  <string-array name="reusable.wednesday">
+    <item>Wednesday</item>
+    <item>Среда</item>
+  </string-array>
+  <string-array name="reusable.wednesday_short">
+    <item>Wed</item>
+    <item>Ср</item>
+  </string-array>
+  <string-array name="reusable.continue">
+    <item>Continue</item>
+    <item>Продолжить</item>
+  </string-array>
+  <string-array name="screen.address_edit.unable_address">
+    <item>Can’t detect your address, let’s try again?</item>
+    <item>Не могу поймать твой адрес, давай еще разок?</item>
+  </string-array>
+  <string-array name="screen.appt.accept">
+    <item>Confirm Appointment</item>
+    <item>Подтвердить запись</item>
+  </string-array>
+  <string-array name="screen.appt.expired_title">
+    <item>Oops, you didn’t confirm the appointment in time :(</item>
+    <item>Упс, ты не успел подтвердить запись:(</item>
+  </string-array>
+  <string-array name="screen.appt.left_to_accept">
+    <item>Time left to confirm appointment</item>
+    <item>Осталось подтвердить запись</item>
+  </string-array>
+  <string-array name="screen.appt.title">
+    <item>Appointment</item>
+    <item>Запись</item>
+  </string-array>
+  <string-array name="screen.auth.title">
+    <item>Authentication</item>
+    <item>Аутентификация</item>
+  </string-array>
+  <string-array name="screen.clients.title">
+    <item>All Clients</item>
+    <item>Все клиенты</item>
+  </string-array>
+  <string-array name="screen.creation.close">
+    <item>Close</item>
+    <item>Закрыть</item>
+  </string-array>
+  <string-array name="screen.creation.repeat">
+    <item>Repeat</item>
+    <item>Повторить</item>
+  </string-array>
+  <string-array name="screen.main_customer.footer_subtitle">
+    <item>Open</item>
+    <item>Открыть</item>
+  </string-array>
+  <string-array name="screen.main_customer.footer_title">
+    <item>History</item>
+    <item>История</item>
+  </string-array>
+  <string-array name="screen.main_customer.map_button">
+    <item>Map</item>
+    <item>Карта</item>
+  </string-array>
+  <string-array name="screen.main_customer.my_notes">
+    <item>My Appointments</item>
+    <item>Мои записи</item>
+  </string-array>
+  <string-array name="screen.main_customer.no_appointments">
+    <item>You don’t have any appointments yet</item>
+    <item>Пока у тебя нет записей</item>
+  </string-array>
+  <string-array name="screen.main_customer.no_favorites">
+    <item>Nothing in favorites yet</item>
+    <item>В избранных пока ничего нет</item>
+  </string-array>
+  <string-array name="screen.main_customer.no_salons">
+    <item>No salons nearby</item>
+    <item>Нет салонов поблизости</item>
+  </string-array>
+  <string-array name="screen.main_customer.salons">
+    <item>Salons</item>
+    <item>Салоны</item>
+  </string-array>
+  <string-array name="screen.map.search_button">
+    <item>Search in this area</item>
+    <item>Искать в этом регионе</item>
+  </string-array>
+  <string-array name="screen.map.search_button_warning">
+    <item>Zoom in to search</item>
+    <item>Нужно увеличить масштаб для поиска</item>
+  </string-array>
+  <string-array name="screen.master.all_title">
+    <item>All Masters</item>
+    <item>Все мастера</item>
+  </string-array>
+  <string-array name="screen.notice.error_placeholder">
+    <item>You haven’t received any notifications yet</item>
+    <item>Ты еще не получили ни одного уведомления</item>
+  </string-array>
+  <string-array name="screen.notice.read_all">
+    <item>Mark All as Read</item>
+    <item>Прочитать все</item>
+  </string-array>
+  <string-array name="screen.notice.title">
+    <item>Notifications</item>
+    <item>Уведомления</item>
+  </string-array>
+  <string-array name="screen.notice.title_alt">
+    <item>Notifications</item>
+    <item>Уведомления</item>
+  </string-array>
+  <string-array name="screen.professional.add_new_salon_button">
+    <item>Add New Salon</item>
+    <item>Добавить новый салон</item>
+  </string-array>
+  <string-array name="screen.professional.common_error_text">
+    <item>An error occurred. Try again later</item>
+    <item>Произошла ошибка. Попробуй повторить запрос позднее</item>
+  </string-array>
+  <string-array name="screen.professional.day_off_cell_text">
+    <item>Off</item>
+    <item>Вых</item>
+  </string-array>
+  <string-array name="screen.professional.vacation_cell_text">
+    <item>Vacation</item>
+    <item>Отпуск</item>
+  </string-array>
+  <string-array name="screen.public.login">
+    <item>Log In</item>
+    <item>Войти</item>
+  </string-array>
+  <string-array name="screen.public.map_button">
+    <item>Map</item>
+    <item>Карта</item>
+  </string-array>
+  <string-array name="screen.salon.action">
+    <item>Book</item>
+    <item>Записаться</item>
+  </string-array>
+  <string-array name="screen.salon_qr.send_qr_button">
+    <item>Send QR Code</item>
+    <item>Отправить QR-код</item>
+  </string-array>
+  <string-array name="screen.salon_qr.share_with_link_button">
+    <item>Share Link</item>
+    <item>Поделиться ссылкой</item>
+  </string-array>
+  <string-array name="screen.schedule.daily_schedule">
+    <item>Daily Schedule</item>
+    <item>Ежедневный график</item>
+  </string-array>
+  <string-array name="screen.schedule.delete_vacation">
+    <item>Delete Vacation</item>
+    <item>Удалить отпуск</item>
+  </string-array>
+  <string-array name="screen.schedule.empty_description">
+    <item>No one has booked this day yet</item>
+    <item>На этот день пока никто не записался</item>
+  </string-array>
+  <string-array name="screen.schedule.hide_master">
+    <item>Hide Master</item>
+    <item>Скрыть мастера</item>
+  </string-array>
+  <string-array name="screen.schedule.professional.attention">
+    <item>Attention!</item>
+    <item>Внимание!</item>
+  </string-array>
+  <string-array name="screen.schedule.professional.end">
+    <item>End</item>
+    <item>Окончание</item>
+  </string-array>
+  <string-array name="screen.schedule.professional.make_it_day_off">
+    <item>Set as Day Off</item>
+    <item>Сделать выходным</item>
+  </string-array>
+  <string-array name="screen.schedule.professional.opening_hours">
+    <item>Opening Hours</item>
+    <item>Время работы</item>
+  </string-array>
+  <string-array name="screen.schedule.professional.start">
+    <item>Start</item>
+    <item>Начало</item>
+  </string-array>
+  <string-array name="screen.schedule.setup_schedule">
+    <item>Set Up Schedule</item>
+    <item>Настроить график</item>
+  </string-array>
+  <string-array name="screen.schedule.setup_vacation">
+    <item>Set Up Vacation</item>
+    <item>Настроить отпуск</item>
+  </string-array>
+  <string-array name="screen.schedule.shift_work">
+    <item>Shift Schedule</item>
+    <item>Сменный график</item>
+  </string-array>
+  <string-array name="screen.schedule.template_for_the_week">
+    <item>Weekly Template</item>
+    <item>Шаблон на неделю</item>
+  </string-array>
+  <string-array name="screen.schedule.vacation_settings">
+    <item>Vacation Settings</item>
+    <item>Настройки отпуска</item>
+  </string-array>
+  <string-array name="screen.schedule.weekend_in_salon">
+    <item>This day is a day off for your salon</item>
+    <item>В этот день у твоего салона выходной</item>
+  </string-array>
+  <string-array name="screen.search.not_found">
+    <item>Nothing found</item>
+    <item>Ничего не найдено</item>
+  </string-array>
+  <string-array name="screen.search.placeholder">
+    <item>Search</item>
+    <item>Найти</item>
+  </string-array>
+  <string-array name="screen.search_bar_field.placeholder">
+    <item>Search</item>
+    <item>Поиск</item>
+  </string-array>
+  <string-array name="screen.select_of_service.add_new_service">
+    <item>Add New Service</item>
+    <item>Добавить новую услугу</item>
+  </string-array>
+  <string-array name="screen.select_of_service.procedures_header">
+    <item>Services</item>
+    <item>Услуги</item>
+  </string-array>
+  <string-array name="screen.service.from">
+    <item>from</item>
+    <item>от</item>
+  </string-array>
+  <string-array name="screen.service.hour">
+    <item>hr</item>
+    <item>ч</item>
+  </string-array>
+  <string-array name="screen.service.minutes">
+    <item>min</item>
+    <item>мин</item>
+  </string-array>
+  <string-array name="screen.service.title">
+    <item>All Services</item>
+    <item>Все услуги</item>
+  </string-array>
+  <string-array name="screen.timeline_appointments.masters_quantity">
+    <item>Number of Masters</item>
+    <item>Количество мастеров</item>
+  </string-array>
+  <string-array name="screen.timeline_appointments.schedule_multiplicity">
+    <item>Schedule Multiplicity</item>
+    <item>Кратность журнала</item>
+  </string-array>
+  <string-array name="screen.timeline_appointments.switch_button">
+    <item>List</item>
+    <item>Список</item>
+  </string-array>
+  <string-array name="widget.address.direction">
+    <item>Get Directions</item>
+    <item>Построй маршрут</item>
+  </string-array>
+  <string-array name="widget.address.link">
+    <item>Edit</item>
+    <item>Изменить</item>
+  </string-array>
+  <string-array name="widget.address.title">
+    <item>Address</item>
+    <item>Адрес</item>
+  </string-array>
+  <string-array name="widget.app_icon.title">
+    <item>Choose App Icon</item>
+    <item>Выбери иконку приложения</item>
+  </string-array>
+  <string-array name="widget.appt.footer_button.subtitle">
+    <item>Open</item>
+    <item>Открыть</item>
+  </string-array>
+  <string-array name="widget.appt.footer_button.title">
+    <item>History</item>
+    <item>История</item>
+  </string-array>
+  <string-array name="widget.clients.action">
+    <item>Add Client</item>
+    <item>Добавить клиента</item>
+  </string-array>
+  <string-array name="widget.clients.title">
+    <item>My Clients</item>
+    <item>Мои клиенты</item>
+  </string-array>
+  <string-array name="widget.contacts.title">
+    <item>Contacts</item>
+    <item>Контакты</item>
+  </string-array>
+  <string-array name="widget.customers.create_client">
+    <item>Add New Client</item>
+    <item>Добавить нового клиента</item>
+  </string-array>
+  <string-array name="widget.danger_zone.delete_hint">
+    <item>This action cannot be undone</item>
+    <item>Действие нельзя будет отменить</item>
+  </string-array>
+  <string-array name="widget.danger_zone.delete_title">
+    <item>Delete User</item>
+    <item>Удалить пользователя</item>
+  </string-array>
+  <string-array name="widget.danger_zone.logout">
+    <item>Log Out</item>
+    <item>Выйти</item>
+  </string-array>
+  <string-array name="widget.danger_zone.logout_hint">
+    <item>Log out of your account</item>
+    <item>Выйти из учетной записи</item>
+  </string-array>
+  <string-array name="widget.danger_zone.logout_message_alert">
+    <item>Are you sure you want to log out?</item>
+    <item>Ты действительно хочешь выйти?</item>
+  </string-array>
+  <string-array name="widget.danger_zone.nickname">
+    <item>Nickname</item>
+    <item>Никнейм</item>
+  </string-array>
+  <string-array name="widget.danger_zone.subscription">
+    <item>Subscription</item>
+    <item>Подписка</item>
+  </string-array>
+  <string-array name="widget.danger_zone.title">
+    <item>Danger Zone</item>
+    <item>Опасная зона</item>
+  </string-array>
+  <string-array name="widget.danger_zone.user_delete_message_alert">
+    <item>To confirm, enter your nickname in the field below</item>
+    <item>Для подтверждения введи свой никнейм в поле ниже</item>
+  </string-array>
+  <string-array name="widget.danger_zone.user_delete_title_alert">
+    <item>This action cannot be undone. Are you sure you want to delete it?</item>
+    <item>Действие невозможно отменить. Ты точно хочешь его удалить?</item>
+  </string-array>
+  <string-array name="widget.danger_zone.warning">
+    <item>Warning</item>
+    <item>Внимание</item>
+  </string-array>
+  <string-array name="widget.description.hide">
+    <item>Hide</item>
+    <item>Скрыть</item>
+  </string-array>
+  <string-array name="widget.description.show_more">
+    <item>Show More</item>
+    <item>Показать еще</item>
+  </string-array>
+  <string-array name="widget.description.title">
+    <item>Description</item>
+    <item>Описание</item>
+  </string-array>
+  <string-array name="widget.full_procedure.title">
+    <item>Masters</item>
+    <item>Мастера</item>
+  </string-array>
+  <string-array name="widget.iam.customer">
+    <item>Client</item>
+    <item>Клиент</item>
+  </string-array>
+  <string-array name="widget.iam.customer_register">
+    <item>Register as a Client</item>
+    <item>Зарегистрируйся как клиент</item>
+  </string-array>
+  <string-array name="widget.iam.professional">
+    <item>Master</item>
+    <item>Мастер</item>
+  </string-array>
+  <string-array name="widget.iam.professional_register">
+    <item>Register as a Master</item>
+    <item>Зарегистрируйся как мастер</item>
+  </string-array>
+  <string-array name="widget.iam.title">
+    <item>Select Mode</item>
+    <item>Выберите режим</item>
+  </string-array>
+  <string-array name="widget.master.action">
+    <item>Invite Master</item>
+    <item>Пригласить мастера</item>
+  </string-array>
+  <string-array name="widget.master.all_action">
+    <item>Invite Master</item>
+    <item>Пригласить мастера</item>
+  </string-array>
+  <string-array name="widget.master.all_title">
+    <item>All Masters</item>
+    <item>Все мастера</item>
+  </string-array>
+  <string-array name="widget.master.title">
+    <item>Masters</item>
+    <item>Мастера</item>
+  </string-array>
+  <string-array name="widget.master.type_master">
+    <item>Master</item>
+    <item>Мастер</item>
+  </string-array>
+  <string-array name="widget.master_danger_zone.fire">
+    <item>Dismiss</item>
+    <item>Уволить</item>
+  </string-array>
+  <string-array name="widget.master_danger_zone.fire_an_employee">
+    <item>Dismiss Employee</item>
+    <item>Уволить сотрудника</item>
+  </string-array>
+  <string-array name="widget.positions.link">
+    <item>Show All</item>
+    <item>Показать все</item>
+  </string-array>
+  <string-array name="widget.procedure.cell_info">
+    <item>Information</item>
+    <item>Информация</item>
+  </string-array>
+  <string-array name="widget.procedure.title">
+    <item>All Procedures</item>
+    <item>Все процедуры</item>
+  </string-array>
+  <string-array name="widget.salon_danger_zone.activate">
+    <item>Activate</item>
+    <item>Активировать</item>
+  </string-array>
+  <string-array name="widget.salon_danger_zone.activate_hint">
+    <item>Restore salon operations</item>
+    <item>Восстановить работу салона</item>
+  </string-array>
+  <string-array name="widget.salon_danger_zone.activate_title">
+    <item>Activate Salon</item>
+    <item>Активировать салон</item>
+  </string-array>
+  <string-array name="widget.salon_danger_zone.deactivate">
+    <item>Deactivate</item>
+    <item>Отключить</item>
+  </string-array>
+  <string-array name="widget.salon_danger_zone.deactivate_hint">
+    <item>Stop salon operations and remove from search</item>
+    <item>Остановить салон, убрать из поиска</item>
+  </string-array>
+  <string-array name="widget.salon_danger_zone.deactivate_title">
+    <item>Deactivate Salon</item>
+    <item>Деактивировать салон</item>
+  </string-array>
+  <string-array name="widget.salon_danger_zone.delete_title">
+    <item>Delete Salon</item>
+    <item>Удалить салон</item>
+  </string-array>
+  <string-array name="widget.schedule.title">
+    <item>Appointments</item>
+    <item>Записи</item>
+  </string-array>
+  <string-array name="widget.support.action">
+    <item>Chat with Support</item>
+    <item>Чат с поддержкой</item>
+  </string-array>
+  <string-array name="widget.support.message">
+    <item>We’re here to help! If you have any questions or issues, our support team is always ready to assist you</item>
+    <item>Мы здесь, чтобы помочь тебе! Если у тебя возникли вопросы или проблемы, наша команда технической поддержки всегда готова прийти на помощь</item>
+  </string-array>
+  <string-array name="widget.support.title">
+    <item>Have Questions? We’re Here!</item>
+    <item>Возникли вопросы? Мы рядом!</item>
+  </string-array>
+  <string-array name="widget.support.unknown">
+    <item>Unknown</item>
+    <item>Неизвестно</item>
+  </string-array>
+  <string-array name="widget.support.user_message">
+    <item>Hello, I need help! My ID: </item>
+    <item>Здравствуйте, мне нужна помощь! Мой id: </item>
+  </string-array>
+  <string-array name="widget.timetable.break">
+    <item>Break: </item>
+    <item>Перерыв: </item>
+  </string-array>
+  <string-array name="widget.timetable.edit_action">
+    <item>Apply</item>
+    <item>Применить</item>
+  </string-array>
+  <string-array name="widget.timetable.title">
+    <item>Working Hours</item>
+    <item>Время работы</item>
+  </string-array>
+  <plurals name="plurals.professional.selected_days_count_0" comment="plurals.professional.selected_days_count [one] [other]">
+    <item quantity="one">Edit %1$d day</item>
+    <item quantity="few">Edit %1$d days</item>
+    <item quantity="many">Edit %1$d days</item>
+    <item quantity="other">Edit %1$d days</item>
+  </plurals><plurals name="plurals.professional.selected_days_count_1" comment="plurals.professional.selected_days_count [one] [other]">
+    <item quantity="one">Редактировать %1$d день</item>
+    <item quantity="few">Редактировать %1$d дня</item>
+    <item quantity="many">Редактировать %1$d дней</item>
+    <item quantity="other">Редактировать %1$d дней</item>
+  </plurals>
+  <string-array name="screen.profesional.settings">
+    <item>Settings</item>
+    <item>Настройки</item>
+  </string-array>
+  <string-array name="screen.profesional.workspace">
+    <item>Workspace</item>
+    <item>Записи</item>
+  </string-array>
+  <string-array name="screen.profesional.schedule">
+    <item>Schedule</item>
+    <item>Графики</item>
+  </string-array>
+  <string-array name="screen.profesional.dashboard">
+    <item>Dashboard</item>
+    <item>Салон</item>
+  </string-array>
+  <string-array name="screen.profesional.start_work">
+    <item>Start working with maestri\n. Create your first salon.</item>
+    <item>Начни работу с maestri\n Создай свой первый салон</item>
+  </string-array>
+  <string-array name="screen.map.enbl_geo">
+    <item>Enable geolocation in the settings</item>
+    <item>Включи геолокацию в настройках</item>
+  </string-array>
+  <string-array name="widget.master.add_master">
+    <item>Add master</item>
+    <item>Добавить мастера</item>
+  </string-array>
+  <string-array name="screen.schedule.professional.day_off">
+    <item>Vacation setup</item>
+    <item>Настройка отпуска</item>
+  </string-array>
+  <string-array name="widget.support.telegram_not_inst">
+    <item>Telegram app is not installed</item>
+    <item>Приложение Telegram не найдено</item>
+  </string-array>
+</resources>
