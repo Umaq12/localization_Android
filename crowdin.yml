@@ -8,7 +8,7 @@ files:
     multilingual: 1
     type: string_catalog
     update_option: update_without_changes
-  - source: '/Android'
+  - source: /Android
     ignore:
       - /**/*.swift
     translation: /app/L10N/src/main/res/values-%two_letters_code%/strings.xml
