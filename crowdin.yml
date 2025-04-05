@@ -1,1 +1,15 @@
-files: []
+bundles:
+  - 9
+files:
+  - source: Ios/
+    ignore:
+      - /**/*.swift
+    translation: Ios/%file_name%.xcstrings
+    type: xcstrings
+    update_option: update_without_changes
+  - source: Android/
+    ignore:
+      - /**/*.swift
+    translation: /app/L10N/src/main/res/values-%two_letters_code%/strings.xml
+    type: xml
+    update_option: update_without_changes
