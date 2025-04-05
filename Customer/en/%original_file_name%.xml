@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-  <string name="customer.timetable.widget.break">Break: %s</string>
-  <string name="customer.timetable.widget.dayoff">Day off</string>
-  <string name="customer.timetable.widget.title">Working hours</string>
-</resources>
