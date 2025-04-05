@@ -5,8 +5,7 @@ files:
     ignore:
       - /**/*.swift
     translation: Ios/%file_name%.xcstrings
-    multilingual: 1
-    type: string_catalog
+    type: xcstrings
     update_option: update_without_changes
   - source: /Android
     ignore:
