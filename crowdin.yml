@@ -4,7 +4,7 @@ files:
   - source: /Ios
     ignore:
       - /**/*.swift
-    translation: /%original_path%/%original_file_name%
+    translation: Ios/%two_letters_code%/%file_name%
     multilingual: 1
     type: string_catalog
     update_option: update_without_changes
