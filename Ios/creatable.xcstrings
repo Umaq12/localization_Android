@@ -1,24 +1,6 @@
 {
   "sourceLanguage": "en",
   "strings": {
-    "creatable.alert.confirmation": {
-      "comment": "creatable.alert.confirmation",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Confirmation"
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "needs_review",
-            "value": "Confirmation"
-          }
-        }
-      }
-    },
     "creatable.alert.congratulations": {
       "comment": "creatable.alert.congratulations",
       "extractionState": "manual",
