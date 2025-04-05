@@ -4,8 +4,7 @@ files:
   - source: /Ios
     ignore:
       - /**/*.swift
-    translation: Ios/%two_letters_code%/%file_name%.xcstrings
-    multilingual: 1
+    translation: Ios/%file_name%.xcstrings
     type: xcstrings
     update_option: update_without_changes
   - source: /Android
