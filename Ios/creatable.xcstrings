@@ -1,42 +1,6 @@
 {
   "sourceLanguage": "en",
   "strings": {
-    "creatable.alert.client_confirmation": {
-      "comment": "creatable.alert.client_confirmation",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Follow the link to sync your order history. The salon associated with this link will be added to your favorites list. Do you confirm this action?"
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "needs_review",
-            "value": "Follow the link to sync your order history. The salon associated with this link will be added to your favorites list. Do you confirm this action?"
-          }
-        }
-      }
-    },
-    "creatable.alert.confirmation": {
-      "comment": "creatable.alert.confirmation",
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Confirmation"
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "needs_review",
-            "value": "Confirmation"
-          }
-        }
-      }
-    },
     "creatable.alert.congratulations": {
       "comment": "creatable.alert.congratulations",
       "extractionState": "manual",
