@@ -1,0 +1,1050 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "widget.address.direction": {
+      "comment": "widget.address.direction",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Get Directions"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Get Directions"
+          }
+        }
+      }
+    },
+    "widget.address.link": {
+      "comment": "widget.address.link",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Edit"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Edit"
+          }
+        }
+      }
+    },
+    "widget.address.title": {
+      "comment": "widget.address.title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Address"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Address"
+          }
+        }
+      }
+    },
+    "widget.app_icon.title": {
+      "comment": "widget.app_icon.title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose App Icon"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Choose App Icon"
+          }
+        }
+      }
+    },
+    "widget.appt.footer_button.subtitle": {
+      "comment": "widget.appt.footer_button.subtitle",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Open"
+          }
+        }
+      }
+    },
+    "widget.appt.footer_button.title": {
+      "comment": "widget.appt.footer_button.title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "History"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "History"
+          }
+        }
+      }
+    },
+    "widget.clients.action": {
+      "comment": "widget.clients.action",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add Client"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Add Client"
+          }
+        }
+      }
+    },
+    "widget.clients.title": {
+      "comment": "widget.clients.title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "My Clients"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "My Clients"
+          }
+        }
+      }
+    },
+    "widget.contacts.title": {
+      "comment": "widget.contacts.title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Contacts"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Contacts"
+          }
+        }
+      }
+    },
+    "widget.customers.create_client": {
+      "comment": "widget.customers.create_client",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add New Client"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Add New Client"
+          }
+        }
+      }
+    },
+    "widget.danger_zone.delete_hint": {
+      "comment": "widget.danger_zone.delete_hint",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This action cannot be undone"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "This action cannot be undone"
+          }
+        }
+      }
+    },
+    "widget.danger_zone.delete_title": {
+      "comment": "widget.danger_zone.delete_title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete User"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Delete User"
+          }
+        }
+      }
+    },
+    "widget.danger_zone.logout": {
+      "comment": "widget.danger_zone.logout",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Log Out"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Log Out"
+          }
+        }
+      }
+    },
+    "widget.danger_zone.logout_hint": {
+      "comment": "widget.danger_zone.logout_hint",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Log out of your account"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Log out of your account"
+          }
+        }
+      }
+    },
+    "widget.danger_zone.logout_message_alert": {
+      "comment": "widget.danger_zone.logout_message_alert",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Are you sure you want to log out?"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Are you sure you want to log out?"
+          }
+        }
+      }
+    },
+    "widget.danger_zone.nickname": {
+      "comment": "widget.danger_zone.nickname",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nickname"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Nickname"
+          }
+        }
+      }
+    },
+    "widget.danger_zone.subscription": {
+      "comment": "widget.danger_zone.subscription",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Subscription"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Subscription"
+          }
+        }
+      }
+    },
+    "widget.danger_zone.title": {
+      "comment": "widget.danger_zone.title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Danger Zone"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Danger Zone"
+          }
+        }
+      }
+    },
+    "widget.danger_zone.user_delete_message_alert": {
+      "comment": "widget.danger_zone.user_delete_message_alert",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "To confirm, enter your nickname in the field below"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "To confirm, enter your nickname in the field below"
+          }
+        }
+      }
+    },
+    "widget.danger_zone.user_delete_title_alert": {
+      "comment": "widget.danger_zone.user_delete_title_alert",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This action cannot be undone. Are you sure you want to delete it?"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "This action cannot be undone. Are you sure you want to delete it?"
+          }
+        }
+      }
+    },
+    "widget.danger_zone.warning": {
+      "comment": "widget.danger_zone.warning",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Warning"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Warning"
+          }
+        }
+      }
+    },
+    "widget.description.hide": {
+      "comment": "widget.description.hide",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hide"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Hide"
+          }
+        }
+      }
+    },
+    "widget.description.show_more": {
+      "comment": "widget.description.show_more",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show More"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Show More"
+          }
+        }
+      }
+    },
+    "widget.description.title": {
+      "comment": "widget.description.title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Description"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Description"
+          }
+        }
+      }
+    },
+    "widget.full_procedure.title": {
+      "comment": "widget.full_procedure.title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Masters"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Masters"
+          }
+        }
+      }
+    },
+    "widget.iam.customer": {
+      "comment": "widget.iam.customer",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Client"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Client"
+          }
+        }
+      }
+    },
+    "widget.iam.customer_register": {
+      "comment": "widget.iam.customer_register",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Register as a Client"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Register as a Client"
+          }
+        }
+      }
+    },
+    "widget.iam.professional": {
+      "comment": "widget.iam.professional",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Master"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Master"
+          }
+        }
+      }
+    },
+    "widget.iam.professional_register": {
+      "comment": "widget.iam.professional_register",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Register as a Master"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Register as a Master"
+          }
+        }
+      }
+    },
+    "widget.iam.title": {
+      "comment": "widget.iam.title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Select Mode"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Select Mode"
+          }
+        }
+      }
+    },
+    "widget.master.action": {
+      "comment": "widget.master.action",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Invite Master"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Invite Master"
+          }
+        }
+      }
+    },
+    "widget.master.add_master": {
+      "comment": "widget.master.add_master",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add master"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Add master"
+          }
+        }
+      }
+    },
+    "widget.master.all_action": {
+      "comment": "widget.master.all_action",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Invite Master"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Invite Master"
+          }
+        }
+      }
+    },
+    "widget.master.all_title": {
+      "comment": "widget.master.all_title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All Masters"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "All Masters"
+          }
+        }
+      }
+    },
+    "widget.master.title": {
+      "comment": "widget.master.title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Masters"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Masters"
+          }
+        }
+      }
+    },
+    "widget.master.type_master": {
+      "comment": "widget.master.type_master",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Master"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Master"
+          }
+        }
+      }
+    },
+    "widget.master_danger_zone.fire": {
+      "comment": "widget.master_danger_zone.fire",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dismiss"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Dismiss"
+          }
+        }
+      }
+    },
+    "widget.master_danger_zone.fire_an_employee": {
+      "comment": "widget.master_danger_zone.fire_an_employee",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dismiss Employee"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Dismiss Employee"
+          }
+        }
+      }
+    },
+    "widget.positions.link": {
+      "comment": "widget.positions.link",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show All"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Show All"
+          }
+        }
+      }
+    },
+    "widget.procedure.cell_info": {
+      "comment": "widget.procedure.cell_info",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Information"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Information"
+          }
+        }
+      }
+    },
+    "widget.procedure.title": {
+      "comment": "widget.procedure.title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All Procedures"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "All Procedures"
+          }
+        }
+      }
+    },
+    "widget.salon_danger_zone.activate": {
+      "comment": "widget.salon_danger_zone.activate",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activate"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Activate"
+          }
+        }
+      }
+    },
+    "widget.salon_danger_zone.activate_hint": {
+      "comment": "widget.salon_danger_zone.activate_hint",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restore salon operations"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Restore salon operations"
+          }
+        }
+      }
+    },
+    "widget.salon_danger_zone.activate_title": {
+      "comment": "widget.salon_danger_zone.activate_title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activate Salon"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Activate Salon"
+          }
+        }
+      }
+    },
+    "widget.salon_danger_zone.deactivate": {
+      "comment": "widget.salon_danger_zone.deactivate",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deactivate"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Deactivate"
+          }
+        }
+      }
+    },
+    "widget.salon_danger_zone.deactivate_hint": {
+      "comment": "widget.salon_danger_zone.deactivate_hint",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stop salon operations and remove from search"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Stop salon operations and remove from search"
+          }
+        }
+      }
+    },
+    "widget.salon_danger_zone.deactivate_title": {
+      "comment": "widget.salon_danger_zone.deactivate_title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deactivate Salon"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Deactivate Salon"
+          }
+        }
+      }
+    },
+    "widget.salon_danger_zone.delete_title": {
+      "comment": "widget.salon_danger_zone.delete_title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete Salon"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Delete Salon"
+          }
+        }
+      }
+    },
+    "widget.schedule.title": {
+      "comment": "widget.schedule.title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appointments"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Appointments"
+          }
+        }
+      }
+    },
+    "widget.support.action": {
+      "comment": "widget.support.action",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chat with Support"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Chat with Support"
+          }
+        }
+      }
+    },
+    "widget.support.message": {
+      "comment": "widget.support.message",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "We’re here to help! If you have any questions or issues, our support team is always ready to assist you"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "We’re here to help! If you have any questions or issues, our support team is always ready to assist you"
+          }
+        }
+      }
+    },
+    "widget.support.telegram_not_inst": {
+      "comment": "widget.support.telegram_not_inst",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Telegram app is not installed"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Telegram app is not installed"
+          }
+        }
+      }
+    },
+    "widget.support.title": {
+      "comment": "widget.support.title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Have Questions? We’re Here!"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Have Questions? We’re Here!"
+          }
+        }
+      }
+    },
+    "widget.support.unknown": {
+      "comment": "widget.support.unknown",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unknown"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Unknown"
+          }
+        }
+      }
+    },
+    "widget.support.user_message": {
+      "comment": "widget.support.user_message",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hello, I need help! My ID: "
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Hello, I need help! My ID: "
+          }
+        }
+      }
+    },
+    "widget.timetable.break": {
+      "comment": "widget.timetable.break",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Break: "
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Break: "
+          }
+        }
+      }
+    },
+    "widget.timetable.edit_action": {
+      "comment": "widget.timetable.edit_action",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apply"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Apply"
+          }
+        }
+      }
+    },
+    "widget.timetable.title": {
+      "comment": "widget.timetable.title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Working Hours"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Working Hours"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
