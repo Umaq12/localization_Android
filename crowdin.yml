@@ -1,2 +1,15 @@
 bundles:
   - 6
+files:
+  - source: Android/*.xml
+    ignore:
+      - //*.swift
+    translation: %two_letters_code%/strings.xml
+    type: xml
+    update_option: update_without_changes
+  - source: Android/*.xml
+    ignore:
+      - //*.swift
+    translation: /app/L10N/src/main/res/values-%two_letters_code%/strings.xml
+    type: xml
+    update_option: update_without_changes
