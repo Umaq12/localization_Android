@@ -364,4 +364,5 @@
   <string name="screen.map.enbl_geo">Enable geolocation in the settings</string>
   <string name="widget.master.add_master">Add master</string>
   <string name="screen.schedule.professional.day_off">Vacation setup</string>
+  <string name="sx">Russia</string>
 </resources>
