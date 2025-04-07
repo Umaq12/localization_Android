@@ -1,2 +1,9 @@
 bundles:
   - 9
+files:
+  - source: *.xml
+    ignore:
+      - /**/*.swift
+    translation: Ios/%two_letters_code%/%file_name%.strings
+    type: strings
+    update_option: update_without_changes
