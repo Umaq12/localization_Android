@@ -1,6 +1,4 @@
 bundles:
-  - 2
-  - 3
   - 9
 files:
   - source: Ios/
